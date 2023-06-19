@@ -14,8 +14,6 @@ code {
 
 #root {
   background: repeating-linear-gradient(45deg, black 27% 20%, #4f2d9d 45% 45%);
-  min-height: 100vh;
-  padding: 50px;
 }
 
 ul {
